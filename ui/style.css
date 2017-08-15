@@ -20,3 +20,33 @@ body {
     height: 200px;
 }
 
+
+	h1,h2,h3{
+			  color:  #AA8EB5;
+			  font-size:30px;
+	                  font-family: 'Raleway', sans-serif;
+	                 text-align :center;
+				}
+p,p2,p4{
+	 color:rgba(222,93,140,1);
+ 	 font-family: 'Covered By Your Grace', sans-serif;
+	  font-size: 18px;
+		}
+
+*{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKse-tIHUmH5aUQHc8PnfcdrcZxYafJs7Uzvyv7o6xANwdE6wr");
+}
+image{
+	border-radius: 20%;
+	border-style: solid;
+	
+}
+.banner {
+ /* background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");*/
+ /* background-size: cover;*/
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+  text-align: center
+  
+}
