@@ -12,6 +12,10 @@ app.get('/myCompany', function (req, res){
 res.sendFile(path.join(__dirname, 'ui', 'digi.html'));
     
 });
+app.get('/aboutMe', function (req, res){
+res.sendFile(path.join(__dirname, 'ui', 'about.html'));
+    
+});
 app.get('/article-two', function (req, res){
     res.send('article-two requested and wil be served here');
     
