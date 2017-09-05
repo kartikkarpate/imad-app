@@ -45,12 +45,13 @@ p,p2,p4{
 
 body{
 	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gd4xJYS_CYbcIQEBzbT_RUDdBXNoIBCWGpF_VQJLd5vFGPpr") ;
-
+    display: block;
 
 }
 image{
 	border-radius: 20%;
 	border-style: solid;
+	
 	
 }
 .banner {
