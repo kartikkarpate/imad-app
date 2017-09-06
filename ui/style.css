@@ -33,11 +33,11 @@ body {
 	h1,h2,h3{
 			  color:  black;
 			  font-size:40px;
-	                  font-family: 'Raleway', sans-serif;
-	                 text-align :center;
+              font-family: 'Raleway', sans-serif;
+	          text-align :center;
 				}
 p,p2,p4{
-	 color:rgba(122,9,140,1);
+	 color: rgba(122,9,140,1);
  	 font-family: 'Covered By Your Grace', sans-serif;
 	  font-size: 28px;
 	  font-weight:bold;
@@ -55,8 +55,7 @@ image{
 	
 }
 .banner {
- /* background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");*/
- /* background-size: cover;*/
+
   background-position: bottom center;
   height: 700px;
   width: 100%;
